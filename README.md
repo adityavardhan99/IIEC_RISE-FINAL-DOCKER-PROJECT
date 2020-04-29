@@ -5,8 +5,8 @@ It is a tool designed to make it easier to create, deploy, and run applications 
 Docker is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains. For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on. It also allows them to get a head start by using one of thousands of programs already designed to run in a Docker container as a part of their application. For operations staff, Docker gives flexibility and potentially reduces the number of systems needed because of its small footprint and lower overhead.
 # PROJECT DESCRIPTION:
 This is the final Docker project made with Docker Compose based on Red hat Linux-8 operating system as host. My project uses “Infrastructure as a Code” i.e. “Docker Compose” to launch a full working Joomla setup in one go.
-# PORT NO. USED IN THE PROJECT:
-8080:80
+# PORT NO. USED IN THE PROJECT- 8080:80
+
 # COMMANDS TO RUN THE PROJECT:
 1. To go to the workspace: Run "cd /myjoomplacompose/"
 2. To launch the setup: Run "docker-compose up"
