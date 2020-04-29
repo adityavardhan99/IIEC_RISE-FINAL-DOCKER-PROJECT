@@ -6,6 +6,14 @@ Docker is designed to benefit both developers and system administrators, making 
 # PROJECT DESCRIPTION:
 This is the final Docker project made with Docker Compose based on Red hat Linux-8 operating system as host. My project uses “Infrastructure as a Code” i.e. “Docker Compose” to launch a full working Joomla setup in one go.
 # PORT NO. USED IN THE PROJECT- 8080:80
+# About Port No.- 8080
+Right now, your computer has 65535 potential ports to use over the internet.  What's a port, right?
+
+Think of a port, like a porthole in a ship.  It is a window or point of access to a specific place.  You can redirect them in a router, take something sent to one port and alter the path to another.  POP3 email programs, like Outlook or Thunderbird, send and receive email through specific ports.... 110 and 995 for receiving email, ports 25, 2525, and 443 for sending email, and ports 143 and 993 for connecting to IMAP servers.  VNC servers typically accept connections on 5900, while pushing the java client on port 5800.
+
+Your web browser works on port 80.  Port 8080 is typically used for a personally hosted web server, when the ISP restricts this type of usage for non-commercial customers.  If you were going to host your own website from your computer, you would prefer to be able to do so on port 80, since this would mean that anyone connecting to your computer wouldn't have to add a port number to the end of the WWW address you paid for.  They could just connect to it, or to your specific IP address, and they'd have the website visible in their browser, while being served from your desktop or laptop.
+
+Some ISPs want to avoid people paying for a cheaper home connection, but using it for commercial webservice.  So, they restrict access on port 80.  To get around this, you can use whatever port you like.  You could use port 12345 if you wanted to.  Port 8080 is the just the default second choice for a webserver.
 
 # COMMANDS TO RUN THE PROJECT:
 1. To go to the workspace: Run "cd /myjoomplacompose/"
