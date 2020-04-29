@@ -69,7 +69,7 @@ Use “docker pull joomla:latest” command to install Joomla in your system. Th
 4.	Save the .yml file and exit with (: wq) command.
 5.	Now, go to your workspace directory by (cd /myjoomlacompose) command.
 6.	Run “docker-compose up” to launch your entire setup.
-7.	Your Joomla web environment is now successfully created hosted on your base Red Hat system. Go to http://192.168.43.87:8080 to check you Joomla Set up.
+7.	Your Joomla web environment is now successfully created hosted on your base Red Hat system. Go to http://192.168.43.87:8080 to check your Joomla Set up.
 8.	To Stop the service run “docker-compose stop”.
 
 # INSTALLING JOOMLA:
