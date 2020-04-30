@@ -8,9 +8,9 @@ It is a tool designed to make it easier to create, deploy, and run applications 
 Docker is designed to benefit both developers and system administrators, making it a part of many DevOps (developers + operations) toolchains. For developers, it means that they can focus on writing code without worrying about the system that it will ultimately be running on. It also allows them to get a head start by using one of thousands of programs already designed to run in a Docker container as a part of their application. For operations staff, Docker gives flexibility and potentially reduces the number of systems needed because of its small footprint and lower overhead.
 
 # What I have learned & How I will use this technology for my future projects?
-I learned so many core concepts of docker and what it can do. One of the most overwhelming feature of Docker is "Docker-compose" which uses "Infrastructure As a Code" to setup any development invironments like Joomla, Drupal, Nextcloud etc.
+I learned so many core concepts of Docker and what it can do. One of the most overwhelming feature of Docker is "Docker-compose" which uses "Infrastructure As a Code" to set up any development environments like Joomla, Drupal, Nextcloud etc.
 
-I will use this technology for my web development. Earlier, for wordpress deployment to make websites I have to puchase hosting from different hosting websites and it costs a lot. Now, I will use "docker-compose" to deploy wordpress in my very own system and host my websites on my local machine without paying any cost to other hosting vendors. 
+I will use this technology for my web development. Earlier, for WordPress deployment to make websites I have to purchase hosting from different hosting websites and it costs a lot. Now, I will use "Docker-compose" to deploy WordPress in my very own system and host my websites on my local machine without paying any cost to other hosting vendors. 
 
 # PROJECT DESCRIPTION:
 This is the final Docker project made with Docker Compose based on Red hat Linux-8 operating system as host. My project uses “Infrastructure as a Code” i.e. “Docker Compose” to launch a full working Joomla setup in one go.
