@@ -10,7 +10,7 @@ Docker is designed to benefit both developers and system administrators, making 
 # What I have learned & How I will use this technology for my future projects?
 I learned so many core concepts of docker and what it can do. One of the most overwhelming feature of Docker is "Docker-compose" which uses "Infrastructure As a Code" to setup any development invironments like Joomla, Drupal, Nextcloud etc.
 
-I will use this technology for my web development. Earlier, for wordpress deployment to make websites I had to puchase hosting from different hosting websites. Now, I will use "docker-compose" to deploy wordpress in my very own system and host my websites on my local machine without paying any cost to other hosting vendors. 
+I will use this technology for my web development. Earlier, for wordpress deployment to make websites I have to puchase hosting from different hosting websites and it costs a lot. Now, I will use "docker-compose" to deploy wordpress in my very own system and host my websites on my local machine without paying any cost to other hosting vendors. 
 
 # PROJECT DESCRIPTION:
 This is the final Docker project made with Docker Compose based on Red hat Linux-8 operating system as host. My project uses “Infrastructure as a Code” i.e. “Docker Compose” to launch a full working Joomla setup in one go.
