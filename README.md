@@ -34,7 +34,7 @@ Over 8,000 free and commercial extensions are available from the official Joomla
 # To access Joomla Documentation:
 Go to https://docs.joomla.org/Main_Page
 
-# INITIAL SETUP REQUIREMENTS:
+# LIST OF INITIAL SETUP REQUIREMENTS:
 Following are the steps to setup Docker in your host Red hat Linux system:
 # Pre-requisites:
 1.	First of all, configure your “yum” with your custom repo which allow you to install docker in your host system.
